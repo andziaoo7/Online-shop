@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "category.html",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "category2.html",
+			"settings":
+			{
+				"buffer_size": 1409,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "category.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 11218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "category.sublime-project",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/8.8/test2.css",
+		"/C/Users/asus/.WebStorm10/system/LocalHistory/changes.storageData",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/8.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/7.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/7.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/6.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/6.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/5.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/5.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/4.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/4.8/tst.html",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/3.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/3.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/2.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/12 build a resume/2.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/24.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/24.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/23.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/23.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/13.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/22.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/22.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/20.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/20.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/19.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/19.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/18.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/18.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/16.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/16.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/15.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/15.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/14.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/14.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/13.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/12.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/12.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/11.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/11.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/10.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/10.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/9.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/9.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/8.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/8.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/7.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/5.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/4.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/3.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/3.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/2.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/2.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/1.25/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/11 positioning/1.25/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/7.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/7.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/6.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/6.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/2.6/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/5.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/5.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/4.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/4.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/3.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/3.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/2.8/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/10 sorting your friends/2.8/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/23.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/23.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/22.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/22.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/21.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/21.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/20.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/20.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/18.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/18.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/17.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/17.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/15.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/16.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/16.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/15.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/13.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/13.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/12.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/12.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/11.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/11.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/10.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/10.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/8.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/8.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/7.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/7.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/4.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/4.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/3.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/3.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/2.23/html.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/2.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/1.23/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/9 CSS selectors/1.23/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/5.6/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/5.6/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/4.6/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/4.6/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/3.6/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/3.6/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/8 Design a button/2.6/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/26.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/26.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/25.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/25.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/24.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/24.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/23.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/23.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/22.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/21.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/21.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/20.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/20.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/17.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/17.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/19.26/test.html",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/19.26/test2.css",
+		"/C/Users/asus/AkademiaHTMLCSS/7 CSS An Overview/16.26/test2.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "category.html",
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "category2.html",
+					"settings":
+					{
+						"buffer_size": 1409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "category.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 11218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "category.sublime-project",
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
